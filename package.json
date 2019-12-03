@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Solutions for Advent of Code 2019",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "spago test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabejohnson/advent-of-code-2019.git"
+  },
+  "keywords": [
+    "advent-of-code"
+  ],
+  "author": "Gabe Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabejohnson/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/gabejohnson/advent-of-code-2019#readme"
+}
